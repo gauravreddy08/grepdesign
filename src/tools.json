@@ -1,0 +1,55 @@
+[
+    {
+        "type": "function",
+        "function": {
+            "name": "write_file",
+            "description": "This function writes updates to a specific file by replacing the original code block with the newly refactored code.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "old_code": {
+                        "type": "string",
+                        "description": "The original code block that will be replaced during the refactoring process."
+                    },
+                    "updated_code": {
+                        "type": "string",
+                        "description": "The refactored code block that implements the required changes."
+                    },
+                    "filepath": {
+                        "type": "string",
+                        "description": "The path to the file where the original code should be replaced with the refactored code."
+                    }
+                },
+                "required": ["old_code", "updated_code", "filepath"]
+            }
+        }
+    }, 
+    {
+        "type": "function",
+        "function": {
+            "name": "push_changes",
+            "description": "This function pushes the recent changes made in the files to the specified GitHub repository.",
+            "parameters": {
+                "type": "object",
+                "properties": {}
+            }
+        }
+    },
+    {
+        "type": "function",
+        "function": {
+            "name": "retriever",
+            "description": "This function interacts with the codebase to retrieve specific blocks of code that need to be refactored based on a given list of changes.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "query": {
+                        "type": "string",
+                        "description": "A detailed list of changes that the codebase expert LLM should use to locate the relevant code blocks."
+                    }
+                },
+                "required": ["query"]
+            }
+        }
+    }
+]
