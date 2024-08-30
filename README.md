@@ -25,22 +25,22 @@ Here are some examples showcasing GrepDesign's capabilities:
 ### Level 1: Basic Edits
 Watch how GrepDesign handles minor HTML and CSS changes effortlessly.
 
-![assets/test1.mp4](assets/test1.mp4)
+https://github.com/user-attachments/assets/30098559-6439-4d26-bbde-4328c577be17
 
 ### Level 2: Personalization of Templates
 See how a free portfolio template is customized by filling in personal details without any manual code edits.
 
-![assets/test2.mp4](assets/test2.mp4)
+https://github.com/user-attachments/assets/282b8fad-ddc1-4b36-a089-0297a219eb3a
 
 ### Level 3: Editing Larger Codebases
 Experience GrepDesign in action as it navigates through a larger codebase, such as course pages from a USC professor, and intuitively adjusts timings and content.
 
-![assets/test3.mp4](assets/test3.mp4)
+https://github.com/user-attachments/assets/bf936cac-cc8b-454e-8894-6de4f988d9e7
 
 ### Final Boss: The Frontend Nightmare
 Watch as GrepDesign tackles one of the most notorious frontend tasks: centering a div!
 
-![assets/finalboss.mp4](assets/finalboss.mp4)
+https://github.com/user-attachments/assets/63e8e2c6-3843-4a10-ad93-62fd22daf93a
 
 ## Getting Started
 
@@ -79,5 +79,7 @@ Initially, I wanted to create a system that would automatically generate test ca
 ### Idea Two: Automated Git Commit Message Generator
 
 Another challenge I often face is coming up with appropriate and meaningful commit messages when pushing code changes to Git (`git commit -m "message here"`). This led to the idea of using the Greptile API to track changes made to the codebase and automatically generate commit messages based on those changes.
+
 ---
+
 ##### [Suggestions for Greptile](SUGGESTIONS.MD)
