@@ -38,7 +38,7 @@ Experience GrepDesign in action as it navigates through a larger codebase, such 
 ### Final Boss: The Frontend Nightmare
 Watch as GrepDesign tackles one of the most notorious frontend tasks: centering a div!
 
-![assets/final-boss.mp4](assets/final-boss.mp4)
+![assets/final-boss.mp4](assets/finalboss.mp4)
 
 ## Getting Started
 
