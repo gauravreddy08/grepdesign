@@ -79,5 +79,5 @@ Initially, I wanted to create a system that would automatically generate test ca
 ### Idea Two: Automated Git Commit Message Generator
 
 Another challenge I often face is coming up with appropriate and meaningful commit messages when pushing code changes to Git (`git commit -m "message here"`). This led to the idea of using the Greptile API to track changes made to the codebase and automatically generate commit messages based on those changes.
-
-> ![Suggestions for Greptile](SUGGESTIONS.MD)
+---
+##### [Suggestions for Greptile](SUGGESTIONS.MD)
