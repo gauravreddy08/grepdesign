@@ -8,6 +8,8 @@ Frontend development often requires time and expertise, especially when making f
 
 GrepDesign leverages the power of the Greptile API and Large Language Models (LLMs) to interact with your codebase, retrieve the necessary code sections for editing, and then refactor them based on your instructions. This solution is perfect for those who need to make quick adjustments to their websites but lack the coding skills to do so manually.
 
+![Design](assets/design.png)
+
 ### How It Works
 
 1. **Identify Changes**: GrepDesign uses the Greptile API to identify and extract relevant parts of your code that need changes based on user input.
