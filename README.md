@@ -23,22 +23,22 @@ Here are some examples showcasing GrepDesign's capabilities:
 ### Level 1: Basic Edits
 Watch how GrepDesign handles minor HTML and CSS changes effortlessly.
 
-![assets/final-boss.mp4](assets/test1.mp4)
+![assets/test1.mp4](assets/test1.mp4)
 
 ### Level 2: Personalization of Templates
 See how a free portfolio template is customized by filling in personal details without any manual code edits.
 
-![assets/final-boss.mp4](assets/test2.mp4)
+![assets/test2.mp4](assets/test2.mp4)
 
 ### Level 3: Editing Larger Codebases
 Experience GrepDesign in action as it navigates through a larger codebase, such as course pages from a USC professor, and intuitively adjusts timings and content.
 
-![assets/final-boss.mp4](assets/test3.mp4)
+![assets/test3.mp4](assets/test3.mp4)
 
 ### Final Boss: The Frontend Nightmare
 Watch as GrepDesign tackles one of the most notorious frontend tasks: centering a div!
 
-![assets/final-boss.mp4](assets/finalboss.mp4)
+![assets/finalboss.mp4](assets/finalboss.mp4)
 
 ## Getting Started
 
