@@ -66,10 +66,6 @@ To get started with GrepDesign, follow these steps:
    streamlit run app.py
    ```
 
-Here's a refined write-up about the alternative ideas you had for using the API, which you can include in your README or project documentation:
-
----
-
 ## Other Ideas with the API
 
 ### Idea One: Test Generation System
